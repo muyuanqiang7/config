@@ -1,2 +1,2 @@
-# config
-spring-boot-config
+# config-repo
+spring-boot-config repo
